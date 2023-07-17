@@ -1,0 +1,5 @@
+import {
+    UserModelCreateForm 
+   } from './ui-components';
+   
+   <UserModelCreateForm />
